@@ -1,0 +1,9 @@
+There are 5 identifiers in Java
+
+There are 53 reserved Words in Java. 
+Reserved words are made of 50 keywords and 3 reserved literals
+
+Keywords are made of 48 used keywords and 2 unused keywords
+
+
+
