@@ -1,5 +1,6 @@
 DevOps is a great collab tool for building
 
+<<<<<<< HEAD
 I am building a SAAS
 
 
@@ -9,3 +10,10 @@ testing conflict wih local
 
 
 another test to local pull
+=======
+I am building a SAAS 
+
+testing my saas remote
+
+Another test to the saas remote pull
+>>>>>>> a0c9939e8d07d02dcd83066ae53168686caf442d
